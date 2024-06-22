@@ -1,0 +1,3 @@
+These notebooks can be used to verify some of the claims made in "Cyclic Group Spectra for Some Small Relation Algebras."  We access the SAT solver CryptoMiniSAT by using the python library boolexpr.  We use boolexpr to specify the boolean formula; boolexpr then takes care of interfacing with the SAT solver and returning the result. 
+
+Questions can be sent to the first author's permanent email address alm.academic@gmail.com. 
